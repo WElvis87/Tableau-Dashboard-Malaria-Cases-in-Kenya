@@ -1,4 +1,4 @@
-# 🇰🇪 Data Jobs World Wide
+# 🇰🇪 Malaria Cases in Kenyan Counties
 
 ## 🎯 Problem Definition
 This dashboard is a data analysis visual of the Machine Learning Project: https://github.com/WElvis87/Malaria-Case-Prediction-in-Kenya-Counties
